@@ -13,3 +13,9 @@ function subtrair(a, b) {
 function multiplicar(a, b) {
   return a * b;
 }
+
+//divisão
+function dividir(a, b) {
+  return a / b;
+}
+
