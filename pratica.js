@@ -3,3 +3,8 @@
 function adicionar(a, b){
     return a + b;
 }
+
+//subtração
+function subtrair(a, b) {
+  return a - b;
+}
