@@ -8,3 +8,8 @@ function adicionar(a, b){
 function subtrair(a, b) {
   return a - b;
 }
+
+// multiplicação
+function multiplicar(a, b) {
+  return a * b;
+}
